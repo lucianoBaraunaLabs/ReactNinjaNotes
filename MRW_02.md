@@ -1,4 +1,4 @@
-#### MRW_02 - Anotações
+# MRW_02 - Anotações
 
 * Passo 1 - criar o package.json
 * Passo 2 - Para configurar o webpack precisamos criar o arquivo webpack.config.js

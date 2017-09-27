@@ -1,4 +1,4 @@
-#### MRW_01 - Anotações
+# MRW_01 - Anotações
 
 Webpack é um module bundle - [webpack.github.io](webpack.github.io)
 Vamos desenvolver nossa aplicação em módulos. O webpack tem a idéia

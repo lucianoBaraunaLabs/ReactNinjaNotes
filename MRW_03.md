@@ -1,4 +1,4 @@
-#### MRW_03 - Anotações
+# MRW_03 - Anotações
 
 Criando um servidor com webpack
 * Passo 1 - Instalar a dependência para o server `webpack-dev-server`

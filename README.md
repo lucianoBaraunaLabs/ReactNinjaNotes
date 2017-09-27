@@ -1,7 +1,7 @@
 # ReactNinjaNotes
 Anotações do curso [React Ninja](https://www.udemy.com/curso-reactjs-ninja/) Ministrado pelo [Fernando Daciuk](https://github.com/fdaciuk)
 
-Essa organização nos estudos foi inspirado nessa moça aqui ;-) : https://github.com/clarabatt/JSNinjaNotes
+Essa organização nos estudos foi inspirado  [nesse repositório](https://github.com/clarabatt/JSNinjaNotes) ;-) : 
 
 Obrigado [@clarabatt](https://github.com/clarabatt) pela luz ;-)
 

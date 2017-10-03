@@ -64,5 +64,12 @@ Repositórios de estudos:
   * Linkando o caminho para o script
 
 #### [MRW#04](MRW_04.md) - Modularizando a Aplicação
-  * A configuração do `publicPath` e start do `webpack-dev-server`
-  * Linkando o caminho para o script
+  * Criar um novo arquivo em src/app.js
+  * Entender o require e o module.exports do CommonJS
+  * Exportar um método sum, que irá somar dois valores
+  * Importar esse método no `src/index.js`
+
+#### [MRW#04](MRW_05.md) - Criando uma aplicação em React
+  * Instalar as dependências React e ReactDOM
+  * Criar um componente em src/app.js
+  * Importar o componente em src/index.js

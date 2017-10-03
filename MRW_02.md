@@ -18,9 +18,10 @@ module.exports = {
 
 Entry é a proriedade de entrada.  
 
-`__dirname` é uma variável global do node para as onde tem o tipo de caminho para cada sistema operacional.  
-
 O valor `path.join(__dirname, 'src', 'index')` Significa que estamos juntando os caminhos e tratando as inconsistencias de sistemas operacional lincando assim o para o nosso arquivo principal.
+
+`__dirname` é uma variável global do node para as onde tem o tipo de caminho para cada sistema operacional.
+
 ```
 module.exports = { 
      entry: path(__dirname, 'src', 'index'),

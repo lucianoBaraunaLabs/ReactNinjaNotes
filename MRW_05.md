@@ -4,6 +4,7 @@ dessa forma não temos muito trabalho e tems uma fácil manutenção quando prec
 
 ### Passo 1 - Instale o React e ReactDom através do comando:
 
+Instalando react e react-dom
 ```
 $ npm install --save react react-dom
 ```

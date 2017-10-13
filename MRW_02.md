@@ -13,9 +13,10 @@ Quando instalamos uma dependência em desenvolvimento ela não é inclusa em pro
 
 ### Passo 3 - Configurar o aquivo webpack para ler um arquivo e gerar um bundle
 
-#### O arquivo webpack.config.js
+Crie um arquivo: `webpack.config.js`
 
-Crie uma variável para ter acesso aos caminhos do sistema operacional
+#### O arquivo webpack.config.js
+Agora dentro do aquivo `webpack.config.js`. Crie uma variável para ter acesso aos caminhos do sistema operacional
 ```
 const path = require('path') // modulo de caminhos do node.
 ```
@@ -25,33 +26,33 @@ const path = require('path') // modulo de caminhos do node.
 Agora é preciso criar o obj `module.export` que é um padrão do cammonjs para exportar módulos
 
 ```
-module.exports = { 
+module.exports = {
  ...
 }
 ```
 
-#### Criando a propriedade `entry` 
+#### Criando a propriedade `entry`
 
-É a proriedade de entrada.  
+É a proriedade de entrada.
 
 O valor `path.join(__dirname, 'src', 'index')` significa que estamos juntando os caminhos e tratando as inconsistencias de sistemas operacional linkando assim o nosso arquivo principal.
 
 - Explicando os parâmetros.
-    - `__dirname` é uma variável global do node para as onde tem o tipo de caminho para cada sistema operacional.
+    - `__dirname` é uma variável global do node que representa o tipo de caminho para cada sistema operacional.
     - `src` é a pasta de origigem
     - `index` é o nosso arquivo
 
 ```
-module.exports = { 
+module.exports = {
      entry: path(__dirname, 'src', 'index'),
 }
 ```
-#### Criando a propriedade `output` 
+#### Criando a propriedade `output`
 
 Output é a propriedade de saida do nosso bundle onde `path` é o destino e `filename` é o nosso arquivo gerado após o bundle
 
 ````
-module.exports = { 
+module.exports = {
     entry: path(__dirname, 'src', 'index'),
     output: {
         path: path.join(__dirname, 'dist'),

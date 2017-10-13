@@ -1,7 +1,7 @@
 # ReactNinjaNotes
 Anotações do curso [React Ninja](https://www.udemy.com/curso-reactjs-ninja/) Ministrado pelo [Fernando Daciuk](https://github.com/fdaciuk)
 
-Essa organização nos estudos foi inspirado  [nesse repositório](https://github.com/clarabatt/JSNinjaNotes) ;-) : 
+Essa organização nos estudos foi inspirado  [nesse repositório](https://github.com/clarabatt/JSNinjaNotes) ;-) :
 
 Obrigado [@clarabatt](https://github.com/clarabatt) pela luz ;-)
 
@@ -73,3 +73,13 @@ Repositórios de estudos:
   * Instalar as dependências React e ReactDOM
   * Criar um componente em src/app.js
   * Importar o componente em src/index.js
+
+#### [MRW_06]((MRW_06.md)) - Usando o sistema de módulos do ES6/2015
+ * Instalação das dependências
+	* babeljs.io
+	* babel pressets
+ * Congfiguração do Babel
+	* Criar arquivo e configurar .babelrc
+	* Atualizar o webpack.config.js
+ * Exportando os módulos em ES2015
+ * Importar o metódo ReactDom com short hand notation do ES2015

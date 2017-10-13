@@ -74,7 +74,7 @@ Repositórios de estudos:
   * Criar um componente em src/app.js
   * Importar o componente em src/index.js
 
-#### [MRW_06]((MRW_06.md)) - Usando o sistema de módulos do ES6/2015
+#### [MRW#06](MRW_06.md) - Usando o sistema de módulos do ES6/2015
  * Instalação das dependências
 	* babeljs.io
 	* babel pressets

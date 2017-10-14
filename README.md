@@ -83,3 +83,9 @@ Repositórios de estudos:
 	* Atualizar o webpack.config.js
  * Exportando os módulos em ES2015
  * Importar o metódo ReactDom com short hand notation do ES2015
+
+#### [MRW#07](MRW_07.md) - Configurando JSX no babel e sourcemaps no Webpack
+* Adicionar o preset do react;
+* Atualizar o .babelrc, adicionando esse preset
+* Atualizar os arquivos `src/app.js` e `src/index.js` para usar JSX
+* Configurar sourcemaps para melhorar o debug do código

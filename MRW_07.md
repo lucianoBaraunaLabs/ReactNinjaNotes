@@ -41,11 +41,11 @@ render(
 )
 ```
 
-
-Essa entrada `devtool` diz para o webpack que ele gere um source-map quando ele gerar os arquivos para ficar mais fácil o debug
+Essa entrada `devtool` é a entrada para habilitar ferramentas de desenvolvimento do webpack. 
+Com isso conseguimos colocar o `source-map` que diz para o webpack que ele gere um source-map quando gerar os arquivos para ficar mais fácil o debug
 ```
 module.exports = {
-    devtool: 'source-map', //
+    devtool: 'source-map',
     entry: path.join(__dirname, 'src', 'index'),
 	...
 ```

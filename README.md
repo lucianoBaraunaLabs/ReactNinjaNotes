@@ -89,3 +89,20 @@ Repositórios de estudos:
 * Atualizar o .babelrc, adicionando esse preset
 * Atualizar os arquivos `src/app.js` e `src/index.js` para usar JSX
 * Configurar sourcemaps para melhorar o debug do código
+
+#### [MRW#08](MRW_08.md) - Configurando nossa aplicação para usar o React hot loader.
+* Instalar o react hot loader **(versão beta - nessa video aula ainda não tinha autualizado)**
+* Atualizar o webpack.config
+* Atualizar o .babelrc
+* Criar um arquivo server.js para rodar com o Node.js
+* Criar a entrada start no package.json
+
+#### [MRW#09](MRW_09.md) - Colocando o hot loader para funcionar.
+* Transformando nosso arquivo app.js como entrada da aplicação
+* Transformando o index.js como entrada principal 
+* Refatorando o código index.js
+
+#### [MRW#10](MRW_10.md) - Configurando a ferramenta de link
+* Adicioar dependências: standard e standard-loader
+* Editar o webpack.config, adicionando o standard
+* Adicioar dependências: webpack-validatork

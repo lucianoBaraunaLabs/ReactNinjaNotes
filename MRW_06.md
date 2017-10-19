@@ -58,7 +58,7 @@ Esse é o padão de exportação no node em `commonJS`
 ```
 module.exports = Title;
 ```
-e esse em ES2015 que funciona basicamente igual ao `module.exports`
+e esse é padrão em ES2015 que funciona basicamente igual ao `module.exports`
 ```
 export default Title
 ```

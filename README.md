@@ -41,6 +41,8 @@ Repositórios de estudos:
   * Aninhado o JSX e criando um componente.
     * Criando nosso próprios componentes com __React.createClass()__.
 
+_____
+
 # Módulo React + Webpack
 
 #### [MRW#01](MRW_01.md) - Congiguração do professor

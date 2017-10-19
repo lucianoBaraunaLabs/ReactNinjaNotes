@@ -101,7 +101,7 @@ _____
 
 #### [MRW#09](MRW_09.md) - Colocando o hot loader para funcionar.
 * Transformando nosso arquivo app.js como entrada da aplicação
-* Transformando o index.js como entrada principal 
+* Transformando o index.js como entrada principal
 * Refatorando o código index.js
 
 #### [MRW#10](MRW_10.md) - Configurando a ferramenta de link

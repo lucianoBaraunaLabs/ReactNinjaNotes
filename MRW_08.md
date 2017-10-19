@@ -92,7 +92,9 @@ O `react-hot-loader/babel` faz com que o babel faça o transpile do javascript u
 ```
 
 ### Criar um arquivo server.js para rodar com o Node.js
-Criamos outro aquivo para separa o nosso servidor customizado.
+Criamos outro arquivo para separa o nosso servidor customizado.
+
+O primeiro parâmetro de `new WebPackDevServer()` é o usar o webpack passando um arquivo de configuração e o segundo é um obj de configuração
 
 ```
 const webpack = require('webpack');

@@ -108,3 +108,8 @@ _____
 * Adicioar dependências: standard e standard-loader
 * Editar o webpack.config, adicionando o standard
 * Adicioar dependências: webpack-validatork
+
+# Módulo 01 - Parte 2
+
+#### [M1#A07](M1A_07.md) - Passando props
+  

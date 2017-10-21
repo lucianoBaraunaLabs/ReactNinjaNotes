@@ -112,4 +112,5 @@ _____
 # Módulo 01 - Parte 2
 
 #### [M1#A07](M1A_07.md) - Passando props
-  
+
+#### [M1#A08](M1A_08.md) - Atributos do HTML

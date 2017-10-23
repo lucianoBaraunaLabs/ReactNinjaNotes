@@ -115,3 +115,7 @@ _____
 #### [M1#A08](M1A_08.md) - Atributos do HTML
 #### [M1#A09](M1A_09.md) - getDefaultProps
 #### [M1#A10](M1A_10.md) - Passando outros dados via props
+#### [M1#A11](M1A_11.md) - Renderizando componentes
+ * Maneiras de renderizar
+ * Sobre funções puras
+ 	* O que são funções puras

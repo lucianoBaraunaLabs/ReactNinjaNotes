@@ -115,7 +115,13 @@ _____
 #### [M1#A08](M1A_08.md) - Atributos do HTML
 #### [M1#A09](M1A_09.md) - getDefaultProps
 #### [M1#A10](M1A_10.md) - Passando outros dados via props
-#### [M1#A11](M1A_11.md) - Renderizando componentes
+#### [M1#A11](M1A_11.md) - Renderizando componentes com funções puras
  * Maneiras de renderizar
  * Sobre funções puras
  	* O que são funções puras
+ * Retornando componentes puros com Arrow functions - ES6
+ * Usando template string
+ * Short Hand Notation no argumento pegando de props
+ * getDefaultProps agora é defaultProps um método estático do função
+ * Código anterior sem ES6
+ * Código refatorado com ES6

@@ -125,3 +125,5 @@ _____
  * getDefaultProps agora é defaultProps um método estático do função
  * Código anterior sem ES6
  * Código refatorado com ES6
+
+### [M1#A12](M1A_12.md) - Renderizando componentes com classes do ES6/2015

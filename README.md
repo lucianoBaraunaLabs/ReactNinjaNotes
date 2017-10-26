@@ -127,7 +127,15 @@ _____
  * Código refatorado com ES6
 
 ### [M1#A12](M1A_12.md) - Renderizando componentes com classes do ES6/2015
+
 ### [M1#A13](M1A_13.md) - Conhecendo a prop "key"
  * Como passar style(css) no jsx
  * Criando um elemento para ser iterado
  * Utilizando a key
+
+### [M1#A14](M1A_14.md) - Problemas ao duplicar a "key"
+### [M1#A15](M1A_15.md) - Eventos
+  * O que precisamos saber para utilizar eventos no React
+### [M1#A16](M1A_16.md) - A prop "children"
+  * Utilizando props
+  * Utilizando children

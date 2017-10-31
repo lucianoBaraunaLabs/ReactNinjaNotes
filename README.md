@@ -147,3 +147,12 @@ _____
  * O que é preciso para criar um state
  * Criando um state
  * Modificando o state
+
+### [M1#A19](M1A_19.md) - Entendendo Arrow Functions
+* Explicação
+* Literais
+* Expressões
+* Criando arrow functions
+* Sobre escopo léxico
+	* Exemplo de componente sem arrow functions
+	* Exemplo de componente com arrow functions

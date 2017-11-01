@@ -183,3 +183,6 @@ _____
 ### [M1#A26](M1A_26.md) -  Lifecycle: fluxo de atualização (componentDidUpdate)
  * componentDidUpdate(prevProps, prevState)
 
+### [M1#A27](M1A_27.md) -  propTypes
+ 
+

@@ -167,3 +167,8 @@ _____
  * updating
 
 ### [M1#A22](M1A_22.md) - Lifecycle: fluxo de montagem / desmontagem
+  * componentWillMount
+  * componentDidMount
+  * componentWillUnmount
+
+### [M1#A23](M1A_32.md) - Lifecycle: fluxo de atualização (componentWillReceiveProps)

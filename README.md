@@ -158,3 +158,12 @@ _____
 	* Exemplo de componente com arrow functions
 
 ### [M1#A20](M1A_20.md) - Stateful vs stateless
+ * O que é Stateful e  Stateless
+ * Fluxos de dados
+ * Abreviando propriedades no ES6 que possuem o mesmo nome do argumento
+
+### [M1#A21](M1A_21.md) - Lifecycle dos componentes
+ * mounting / unmounting
+ * updating
+
+### [M1#A22](M1A_22.md) - Lifecycle: fluxo de montagem / desmontagem

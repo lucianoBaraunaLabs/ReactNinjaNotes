@@ -156,3 +156,8 @@ _____
 * Sobre escopo léxico
 	* Exemplo de componente sem arrow functions
 	* Exemplo de componente com arrow functions
+
+### [M1#A20](M1A_20.md) - Stateful vs stateless
+ * O que é Stateful e  Stateless
+ * Fluxos de dados
+ * Abreviando propriedades no ES6 que possuem o mesmo nome do argumento

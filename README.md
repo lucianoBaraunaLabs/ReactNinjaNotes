@@ -184,9 +184,26 @@ _____
  * componentDidUpdate(prevProps, prevState)
 
 ### [M1#A27](M1A_27.md) -  propTypes
+
 ### [M1#A28](M1A_28.md) -  Introdução à formulários no React
  * Controlled components
  * Uncontroled component
  * defaultValue
 
+### [M1#A29](M1A_29.md) -  Formulários (checkbox e radio)
+ * Valores de propriedades true
+ * Checkbox
+ * Controled Checkbox
+ * Uncontroled Checkbox
+ * Radio
 
+### [M1#A30](M1A_30.md) -  Formulários (select e option)
+ * Uncontroled
+ * Controled
+ * Propriedade multiple
+
+### [M1#A31](M1A_31.md) -  Formulários (textarea)
+
+### [M1#A32](M1A_32.md) -  Eventos para componente de formulário
+ * onSubmit
+ * onChange

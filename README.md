@@ -185,5 +185,8 @@ _____
 
 ### [M1#A27](M1A_27.md) -  propTypes
 ### [M1#A28](M1A_28.md) -  Introdução à formulários no React
- 
+ * Controlled components
+ * Uncontroled component
+ * defaultValue
+
 

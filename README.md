@@ -211,6 +211,17 @@ _____
 ### [M1#A33](M1A_33.md) - setState é assíncrono
 
 ### [M1#A34](M1A_34.md) - Conceitos e tipos de componentes com React, criando uma app (GitHub)
-* o que veremos nas próximas aulas
+ * o que veremos nas próximas aulas
 
 ### [M1#A35](M1A_35.md) - GitHub app - Criando a marcação da aplicação
+ * marcacão do app
+
+### [M1#A36](M1A_36.md) - GitHub app - Separando os componentes
+ * separar os componentes e marcar propTypes
+
+### [M1#A37](M1A_37.md) - GitHub app - Criando o Container Component da aplicação
+ * Presentational components
+ * Container components
+ * Dumb components
+ * Smart components
+ * Sobre o App e Appcontent na aplicação Github App

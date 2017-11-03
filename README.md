@@ -225,3 +225,6 @@ _____
  * Dumb components
  * Smart components
  * Sobre o App e Appcontent na aplicação Github App
+
+### [M1#A38](M1A_38.md) - GitHub app - Criando o objeto de estado da aplicação
+* Tipos de componente App e App Content

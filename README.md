@@ -235,3 +235,5 @@ _____
  * **(nada anotado)**
 
 ### [M1#A40](M1A_40.md) - GitHub app - Fazendo o request dos dados do usuário
+
+### [M1#A41](M1A_41.md) - GitHub app - Refatorando a aplicação e populando os dados do usuário

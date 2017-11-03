@@ -180,30 +180,37 @@ _____
 ### [M1#A25](M1A_25.md) - Lifecycle: fluxo de atualização (componentWillUpdate)
  * componentWillUpdate(nextProps, nextState)
 
-### [M1#A26](M1A_26.md) -  Lifecycle: fluxo de atualização (componentDidUpdate)
+### [M1#A26](M1A_26.md) - Lifecycle: fluxo de atualização (componentDidUpdate)
  * componentDidUpdate(prevProps, prevState)
 
-### [M1#A27](M1A_27.md) -  propTypes
+### [M1#A27](M1A_27.md) - propTypes
 
-### [M1#A28](M1A_28.md) -  Introdução à formulários no React
+### [M1#A28](M1A_28.md) - Introdução à formulários no React
  * Controlled components
  * Uncontroled component
  * defaultValue
 
-### [M1#A29](M1A_29.md) -  Formulários (checkbox e radio)
+### [M1#A29](M1A_29.md) - Formulários (checkbox e radio)
  * Valores de propriedades true
  * Checkbox
  * Controled Checkbox
  * Uncontroled Checkbox
  * Radio
 
-### [M1#A30](M1A_30.md) -  Formulários (select e option)
+### [M1#A30](M1A_30.md) - Formulários (select e option)
  * Uncontroled
  * Controled
  * Propriedade multiple
 
-### [M1#A31](M1A_31.md) -  Formulários (textarea)
+### [M1#A31](M1A_31.md) - Formulários (textarea)
 
-### [M1#A32](M1A_32.md) -  Eventos para componente de formulário
+### [M1#A32](M1A_32.md) - Eventos para componente de formulário
  * onSubmit
  * onChange
+
+### [M1#A33](M1A_33.md) - setState é assíncrono
+
+### [M1#A34](M1A_34.md) - Conceitos e tipos de componentes com React, criando uma app (GitHub)
+* o que veremos nas próximas aulas
+
+### [M1#A35](M1A_35.md) - GitHub app - Criando a marcação da aplicação

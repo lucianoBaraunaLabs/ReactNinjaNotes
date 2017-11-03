@@ -228,3 +228,5 @@ _____
 
 ### [M1#A38](M1A_38.md) - GitHub app - Criando o objeto de estado da aplicação
 * Tipos de componente App e App Content
+
+### [M1#A39](M1A_39.md) - GitHub app - Passando o state via props para o componente UserInfo

@@ -242,3 +242,8 @@ _____
 
 ### [M1#A42](M1A_42.md) - GitHub app - Popular dados dos repositórios
  * **(nada anotado)**
+
+### [M1#A43](M1A_43.md) - GitHub app - método para buscar repositórios e favoritos
+ * Hight order functions o que são
+ * Colocando o nome da variável como nome da propriedade [ES6]
+ * Sobre retorno de objetos em arrow functions

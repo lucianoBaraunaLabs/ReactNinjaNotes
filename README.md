@@ -247,3 +247,5 @@ _____
  * Hight order functions o que são
  * Colocando o nome da variável como nome da propriedade [ES6]
  * Sobre retorno de objetos em arrow functions
+
+### [M1#A44](M1A_44.md) - GitHub app - buscar repositórios do usuário pesquisado

@@ -203,21 +203,23 @@ _____
  * Propriedade multiple
 
 ### [M1#A31](M1A_31.md) - Formulários (textarea)
+ * **(nada anotado)**
 
 ### [M1#A32](M1A_32.md) - Eventos para componente de formulário
  * onSubmit
  * onChange
 
 ### [M1#A33](M1A_33.md) - setState é assíncrono
+ * **(nada anotado)**
 
 ### [M1#A34](M1A_34.md) - Conceitos e tipos de componentes com React, criando uma app (GitHub)
  * o que veremos nas próximas aulas
 
 ### [M1#A35](M1A_35.md) - GitHub app - Criando a marcação da aplicação
- * marcacão do app
+ * **(nada anotado)**
 
 ### [M1#A36](M1A_36.md) - GitHub app - Separando os componentes
- * separar os componentes e marcar propTypes
+ * **(nada anotado)**
 
 ### [M1#A37](M1A_37.md) - GitHub app - Criando o Container Component da aplicação
  * Presentational components
@@ -230,3 +232,6 @@ _____
 * Tipos de componente App e App Content
 
 ### [M1#A39](M1A_39.md) - GitHub app - Passando o state via props para o componente UserInfo
+ * **(nada anotado)**
+
+### [M1#A40](M1A_40.md) - GitHub app - Fazendo o request dos dados do usuário

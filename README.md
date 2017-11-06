@@ -259,5 +259,9 @@ _____
   * target em váriavel
 
 ### [M1#A46](M1A_46.md) - GitHub app - loading enquanto estiver buscando os dados
+
 ### [M1#A47](M1A_47.md) - GitHub app - organizando as propTypes
+
 ### [M1#A48](M1A_48.md) - Formas de fazer "bind" do this em eventos
+
+### [M1#A49](M1A_49.md) - Entendendo o spread operator do ES6/2015

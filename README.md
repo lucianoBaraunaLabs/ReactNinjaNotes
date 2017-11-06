@@ -259,3 +259,4 @@ _____
   * target em váriavel
 
 ### [M1#A46](M1A_46.md) - GitHub app - loading enquanto estiver buscando os dados
+### [M1#A47](M1A_47.md) - GitHub app - organizando as propTypes

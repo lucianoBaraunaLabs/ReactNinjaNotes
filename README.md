@@ -249,3 +249,12 @@ _____
  * Sobre retorno de objetos em arrow functions
 
 ### [M1#A44](M1A_44.md) - GitHub app - buscar repositórios do usuário pesquisado
+
+### [M1#A45](M1A_45.md) - GitHub app - sobre eventos - desabilitar / habilitar campo de busca
+
+* Usando console.dir()
+* Propriedades sintéticas
+* Erro ao reutilziar propriedades de elementos  
+* Algumas forma de resolver propriedades de elementos
+  * e.persist()
+  * target em váriavel

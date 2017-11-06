@@ -260,3 +260,4 @@ _____
 
 ### [M1#A46](M1A_46.md) - GitHub app - loading enquanto estiver buscando os dados
 ### [M1#A47](M1A_47.md) - GitHub app - organizando as propTypes
+### [M1#A48](M1A_48.md) - Formas de fazer "bind" do this em eventos

@@ -265,3 +265,9 @@ _____
 ### [M1#A48](M1A_48.md) - Formas de fazer "bind" do this em eventos
 
 ### [M1#A49](M1A_49.md) - Entendendo o spread operator do ES6/2015
+* Sobre
+* Referenciando e não criando um novo
+* Usando o spread operator
+* JSX(passar props)
+* array
+* funções(rest parameters)

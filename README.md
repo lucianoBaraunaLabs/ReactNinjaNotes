@@ -271,3 +271,8 @@ _____
 * JSX(passar props)
 * array
 * funções(rest parameters)
+
+### [M1#A50](M1A_50.md) - 3rd-party + React
+* O lifecycle
+* A propriedade ref
+* Observação

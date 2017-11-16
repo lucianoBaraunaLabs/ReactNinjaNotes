@@ -253,7 +253,7 @@ _____
 ### [M1#A45](M1A_45.md) - GitHub app - sobre eventos - desabilitar / habilitar campo de busca
 * Usando console.dir()
 * Propriedades sintéticas
-* Erro ao reutilziar propriedades de elementos  
+* Erro ao reutilziar propriedades de elementos
 * Algumas forma de resolver propriedades de elementos
   * e.persist()
   * target em váriavel
@@ -281,4 +281,11 @@ _____
  * **(nada anotado)**
 
 ### [M1#A52](M1A_52.md) - TDD
- * **(nada anotado)**
+ * O que é TDD
+ * Momentos do TDD
+	* RED
+	* GREEN
+	* BLUE
+ * O que é assert
+  * Entendendo o erro no console.assert
+ * Exemplo de teste

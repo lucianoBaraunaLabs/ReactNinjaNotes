@@ -287,3 +287,5 @@ _____
  * **(nada anotado)**
 
 # Módulo 02
+
+### [M2#A02](M2A_02.md) - Conhecendo o create-react-app

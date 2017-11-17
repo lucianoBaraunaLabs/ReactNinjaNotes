@@ -305,3 +305,9 @@ _____
 * O quê é ?
 * Que outras ferramentas fazem o que o Jest faz?
 * Com tantas ferramentas, por quê o Jest ?
+
+### [M2#A04](M2A_04.md) - Jest na prática - instalação e configuração
+* Instalação e configuração
+* 1º Instalar o jest-cli
+* 2º Configurar o package.json 
+* Jest - A Função it('descrição do teste', função)

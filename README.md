@@ -311,3 +311,10 @@ _____
 * 1º Instalar o jest-cli
 * 2º Configurar o package.json 
 * Jest - A Função it('descrição do teste', função)
+
+### [M2#A05](M2A_05.md) - Jest na prática - conhecendo as funções para teste e asserção
+* it('descrição do teste', função)
+* describe('descrição do teste', função)
+* console.assert(condição, mensagem)
+* expect()
+ * expect().toBe()

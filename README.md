@@ -296,3 +296,12 @@ _____
 # Módulo 02
 
 ### [M2#A02](M2A_02.md) - Conhecendo o create-react-app
+* O que é ?
+* Instalação
+* Comandos create react app
+* Analisando o package.json
+
+### [M2#A03](M2A_03.md) - Jest (overview)
+* O quê é ?
+* Que outras ferramentas fazem o que o Jest faz?
+* Com tantas ferramentas, por quê o Jest ?

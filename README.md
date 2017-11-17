@@ -253,7 +253,7 @@ _____
 ### [M1#A45](M1A_45.md) - GitHub app - sobre eventos - desabilitar / habilitar campo de busca
 * Usando console.dir()
 * Propriedades sintéticas
-* Erro ao reutilziar propriedades de elementos  
+* Erro ao reutilziar propriedades de elementos
 * Algumas forma de resolver propriedades de elementos
   * e.persist()
   * target em váriavel
@@ -281,6 +281,7 @@ _____
  * **(nada anotado)**
 
 ### [M1#A52](M1A_52.md) - TDD
+<<<<<<< HEAD
  * **(nada anotado)**
 
 ### [M1#A52](M1A_53.md) - TDD
@@ -289,3 +290,13 @@ _____
 # Módulo 02
 
 ### [M2#A02](M2A_02.md) - Conhecendo o create-react-app
+=======
+ * O que é TDD
+ * Momentos do TDD
+	* RED
+	* GREEN
+	* BLUE
+ * O que é assert
+  * Entendendo o erro no console.assert
+ * Exemplo de teste
+>>>>>>> b5c3bb63ed19de640edb9204026f16469ffd7d4c

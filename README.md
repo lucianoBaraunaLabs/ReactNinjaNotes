@@ -320,3 +320,18 @@ _____
  * expect().toBe()
 
 ### [M2#A06](M2A_06.md) - Jest na prática - code coverage
+* O que é
+* Rodando o teste
+ * Sobre o retorno do code coverage
+* Sobre o CHAI
+ * Métodos do CHAI
+* Testando o módulo sum.js
+* Sobre o coverage
+
+### [M2#A07](M2A_07.md) - Jest na prática - Integracão com ES6/2015
+* Instalando o ES6/2015 no jest
+* Configurando o package.json
+* Criando o .babelrc
+* Convertendo os arquivos para ES6/2015
+* Passando paramêtros nos comandos para o jest
+ * Limpando o cache

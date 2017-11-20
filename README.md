@@ -309,7 +309,7 @@ _____
 ### [M2#A04](M2A_04.md) - Jest na prática - instalação e configuração
 * Instalação e configuração
 * 1º Instalar o jest-cli
-* 2º Configurar o package.json 
+* 2º Configurar o package.json
 * Jest - A Função it('descrição do teste', função)
 
 ### [M2#A05](M2A_05.md) - Jest na prática - conhecendo as funções para teste e asserção
@@ -318,3 +318,5 @@ _____
 * console.assert(condição, mensagem)
 * expect()
  * expect().toBe()
+
+### [M2#A06](M2A_06.md) - Jest na prática - code coverage

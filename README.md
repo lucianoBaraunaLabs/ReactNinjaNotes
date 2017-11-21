@@ -335,3 +335,5 @@ _____
 * Convertendo os arquivos para ES6/2015
 * Passando paramêtros nos comandos para o jest
  * Limpando o cache
+
+### [M2#A08](M2A_08.md) - Jest na prática - watch interativo

@@ -341,3 +341,12 @@ _____
 
 ### [M2#A09](M2A_09.md) - TDD - Assertion tools e desafio método map
 * **(nada anotado)**
+
+### [M2#A10](M2A_10.md) - TDD - método map
+* Métodos de asserção chai
+ * Método `to.be.equal()`
+ * Método `to.be.deep.equal()`
+ * Método `.to.be.throw()`
+* Recriando o método map
+ * Formato de código iperativo
+ * Testes escritos para o método map.

@@ -337,3 +337,7 @@ _____
  * Limpando o cache
 
 ### [M2#A08](M2A_08.md) - Jest na prática - watch interativo
+* Configurando o Watch
+
+### [M2#A09](M2A_09.md) - TDD - Assertion tools e desafio método map
+* **(nada anotado)**

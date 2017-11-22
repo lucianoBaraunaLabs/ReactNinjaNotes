@@ -352,3 +352,6 @@ _____
  * Testes escritos para o método map.
 
 ### [M2#A11](M2A_11.md) - TDD - aprendendo recursão
+* Regras para ser uma função recursiva
+* Criando uma função recursiva
+ * Convertendo para ES6/2015.

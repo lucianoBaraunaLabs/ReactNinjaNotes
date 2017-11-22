@@ -355,3 +355,7 @@ _____
 * Regras para ser uma função recursiva
 * Criando uma função recursiva
  * Convertendo para ES6/2015.
+
+### [M2#A11](M2A_12.md) - TDD - map recursivo
+* Travando a função para não termos um loop
+* Iterando sobre o head

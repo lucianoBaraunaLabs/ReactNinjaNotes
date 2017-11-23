@@ -368,3 +368,6 @@ _____
  * Removendo a mutabilidade(mudado) no código
  * Substituindo o `.concat`
  * Removendo o IF e substituindo por ternário
+
+### [M2#A14](M2A_14.md) - TDD - filter
+* Testes para filter

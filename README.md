@@ -356,6 +356,15 @@ _____
 * Criando uma função recursiva
  * Convertendo para ES6/2015.
 
-### [M2#A11](M2A_12.md) - TDD - map recursivo
+### [M2#A12](M2A_12.md) - TDD - map recursivo
 * Travando a função para não termos um loop
 * Iterando sobre o head
+
+### [M2#A13](M2A_13.md) - TDD - map recursivo parte 2
+* Código antes de resolver o counter
+* Implementando o counter (índice)
+* Explicando o código
+* Refatorando o código
+ * Removendo a mutabilidade(mudado) no código
+ * Substituindo o `.concat`
+ * Removendo o IF e substituindo por ternário

@@ -381,3 +381,5 @@ _____
 * Métodos chai to.be.ok e to.be.not.ok
 * Testes every
 * Código final
+
+### [M2#A17](M2A_17.md) - TDD - every recursivo

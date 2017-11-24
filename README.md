@@ -375,3 +375,6 @@ _____
 * Código final
 
 ### [M2#A15](M2A_15.md) - TDD - filter recursivo
+* Implementacão da recursão
+
+### [M2#A16](M2A_16.md) - TDD - every

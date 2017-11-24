@@ -371,3 +371,5 @@ _____
 
 ### [M2#A14](M2A_14.md) - TDD - filter
 * Testes para filter
+ * Equivalência booleana
+* Código final

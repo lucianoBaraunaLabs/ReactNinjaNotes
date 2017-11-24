@@ -378,3 +378,6 @@ _____
 * Implementacão da recursão
 
 ### [M2#A16](M2A_16.md) - TDD - every
+* Métodos chai to.be.ok e to.be.not.ok
+* Testes every
+* Código final

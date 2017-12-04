@@ -383,3 +383,5 @@ _____
 * Código final
 
 ### [M2#A17](M2A_17.md) - TDD - every recursivo
+
+### [M2#A18](M2A_18.md) - TDD - some

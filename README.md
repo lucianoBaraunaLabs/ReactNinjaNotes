@@ -385,3 +385,5 @@ _____
 ### [M2#A17](M2A_17.md) - TDD - every recursivo
 
 ### [M2#A18](M2A_18.md) - TDD - some
+
+### [M2#A19](M2A_19.md) - TDD - some recrusivo

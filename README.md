@@ -387,3 +387,5 @@ _____
 ### [M2#A18](M2A_18.md) - TDD - some
 
 ### [M2#A19](M2A_19.md) - TDD - some recrusivo
+
+### [M2#A19](M2A_20.md) - TDD - reverse

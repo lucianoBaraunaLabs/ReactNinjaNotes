@@ -391,3 +391,5 @@ _____
 ### [M2#A19](M2A_20.md) - TDD - reverse
 
 ### [M2#A19](M2A_21.md) - TDD - reverse recursivo
+
+### [M2#A19](M2A_22.md) - TDD - reduce

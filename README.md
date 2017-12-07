@@ -396,4 +396,4 @@ _____
 
 ### [M2#A23](M2A_23.md) - TDD - reduce (parte 2)
 
-### [M2#A23](M2A_24.md) - TDD - reduce recursivo
+### [M2#A24](M2A_24.md) - TDD - reduce recursivo

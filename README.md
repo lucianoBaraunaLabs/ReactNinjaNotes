@@ -388,8 +388,12 @@ _____
 
 ### [M2#A19](M2A_19.md) - TDD - some recrusivo
 
-### [M2#A19](M2A_20.md) - TDD - reverse
+### [M2#A20](M2A_20.md) - TDD - reverse
 
-### [M2#A19](M2A_21.md) - TDD - reverse recursivo
+### [M2#A21](M2A_21.md) - TDD - reverse recursivo
 
-### [M2#A19](M2A_22.md) - TDD - reduce
+### [M2#A22](M2A_22.md) - TDD - reduce
+
+### [M2#A23](M2A_23.md) - TDD - reduce (parte 2)
+
+### [M2#A23](M2A_24.md) - TDD - reduce recursivo

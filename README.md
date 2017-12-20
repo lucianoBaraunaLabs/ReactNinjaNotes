@@ -374,12 +374,32 @@ _____
  * Equivalência booleana
 * Código final
 
-### [M2#A15](M2A_15.md) - TDD - filter recursivo
+### [M2#A15](M2A_15.md) - TDD - filter recursivo ( rever e detalhar melhor as anotações)
 * Implementacão da recursão
 
-### [M2#A16](M2A_16.md) - TDD - every
+### [M2#A16](M2A_16.md) - TDD - every ( rever e detalhar melhor as anotações)
 * Métodos chai to.be.ok e to.be.not.ok
 * Testes every
 * Código final
 
-### [M2#A17](M2A_17.md) - TDD - every recursivo
+### [M2#A17](M2A_17.md) - TDD - every recursivo ( rever e detalhar melhor as anotações)
+
+### [M2#A18](M2A_18.md) - TDD - some ( rever e detalhar melhor as anotações)
+
+### [M2#A19](M2A_19.md) - TDD - some recrusivo ( rever e detalhar melhor as anotações)
+
+### [M2#A20](M2A_20.md) - TDD - reverse ( rever e detalhar melhor as anotações)
+
+### [M2#A21](M2A_21.md) - TDD - reverse recursivo ( rever e detalhar melhor as anotações)
+
+### [M2#A22](M2A_22.md) - TDD - reduce ( rever e detalhar melhor as anotações)
+
+### [M2#A23](M2A_23.md) - TDD - reduce (parte 2) ( rever e detalhar melhor as anotações)
+
+### [M2#A24](M2A_24.md) - TDD - reduce recursivo
+
+### [M2#A25](M2A_25.md) - TDD - reduce reduceRight
+
+### [M2#A26](M2A_26.md) - TDD - reduce reduceRight recursivo
+
+### [M2#A27](M2A_27.md) - TDD - find

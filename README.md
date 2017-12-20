@@ -403,3 +403,10 @@ _____
 ### [M2#A26](M2A_26.md) - TDD - reduce reduceRight recursivo
 
 ### [M2#A27](M2A_27.md) - TDD - find
+
+### [M2#A27](M2A_28.md) - TDD - find recursivo
+* Código normal
+* Código recursivo
+* Comentando o código
+* Sobre branchs
+* Observação funcional e branchs

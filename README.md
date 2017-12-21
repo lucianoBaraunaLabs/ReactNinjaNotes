@@ -404,9 +404,15 @@ _____
 
 ### [M2#A27](M2A_27.md) - TDD - find
 
-### [M2#A27](M2A_28.md) - TDD - find recursivo
+### [M2#A28](M2A_28.md) - TDD - find recursivo
 * Código normal
 * Código recursivo
 * Comentando o código
 * Sobre branchs
 * Observação funcional e branchs
+
+### [M2#A29](M2A_29.md) - TDD - testando exceções
+* Criando teste para mostrar o erro TypeError quando não for passado um array
+* Criando e testando uma mensagem de erro customizada para o primeiro parâmetro caso ele não seja um array
+* Criando teste para mostrar o erro TypeError quando não for passado uma função no segundo parâmetro
+* Criando e testando uma mensagem de erro customizada para o segundo parâmetro caso ele não seja uma função

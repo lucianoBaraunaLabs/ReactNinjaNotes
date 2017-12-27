@@ -424,3 +424,5 @@ _____
   * O arquivo `\stories\index.js`
 * Método `storiesOf`
 * Método `add`
+
+### [M2#A31](M2A_31.md) - Trabalhando com assets: configuração no Webpack

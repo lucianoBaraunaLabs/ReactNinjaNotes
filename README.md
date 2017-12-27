@@ -418,3 +418,9 @@ _____
 * Criando e testando uma mensagem de erro customizada para o segundo parâmetro caso ele não seja uma função
 
 ### [M2#A30](M2A_30.md) - Conhecendo o Storybook
+* Instalação
+* Iniciando
+  * O arquivo `.storybook/config.js`
+  * O arquivo `\stories\index.js`
+* Método `storiesOf`
+* Método `add`

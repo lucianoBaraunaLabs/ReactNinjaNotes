@@ -432,3 +432,5 @@ _____
 * Sobre o style-loader
   *  Instalando o style-loader
   *  Configurando o style-loader
+
+### [M2#A32](M2A_32.md) - Trabalhando com assets: HTML

@@ -426,3 +426,9 @@ _____
 * Método `add`
 
 ### [M2#A31](M2A_31.md) - Trabalhando com assets: configuração no Webpack
+* Sobre o raw-loader
+  * Instalando o raw-loader
+  * Configurando o raw-loader
+* Sobre o style-loader
+  *  Instalando o style-loader
+  *  Configurando o style-loader

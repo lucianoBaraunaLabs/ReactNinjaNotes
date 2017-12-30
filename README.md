@@ -434,3 +434,12 @@ _____
   *  Configurando o style-loader
 
 ### [M2#A32](M2A_32.md) - Trabalhando com assets: HTML
+
+* Sobre html-webpack-plugin
+* Instalando html-webpack-plugin
+* Configurando html-webpack-plugin
+	* Acrescentando a entrada
+	*  Configurando o caminho do servidor
+	*  Configurando o title
+	*  Configurando para mostrar a div app
+*  Configurando a saída do nome dos arquivos.

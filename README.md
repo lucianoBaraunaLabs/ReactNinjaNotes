@@ -434,7 +434,6 @@ _____
   *  Configurando o style-loader
 
 ### [M2#A32](M2A_32.md) - Trabalhando com assets: HTML
-
 * Sobre html-webpack-plugin
 * Instalando html-webpack-plugin
 * Configurando html-webpack-plugin
@@ -443,3 +442,10 @@ _____
 	*  Configurando o title
 	*  Configurando para mostrar a div app
 *  Configurando a saída do nome dos arquivos.
+
+### [M2#A33](M2A_33.md) - Trabalhando com assets: Exportando CSS em um arquivo
+* Instalando extract-text-webpack-plugin
+	* Configurando
+* De raw-loader para css-loader
+	* Removendo raw-loader
+  * Configurando o plugin

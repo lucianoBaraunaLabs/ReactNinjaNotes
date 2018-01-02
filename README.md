@@ -464,3 +464,8 @@ _____
 	* webpack.optimize.OccurrenceOrderPlugin
 * Configurando comando de build no package.json
 * Arquivo final para gerar em producão
+
+### [M2#A35](M2A_35.md) - Webpack Dashboard
+* Instalando
+* Configurando `webpack.config.js`
+* Configurando `package.json`

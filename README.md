@@ -449,3 +449,18 @@ _____
 * De raw-loader para css-loader
 	* Removendo raw-loader
   * Configurando o plugin
+
+### [M2#A34](M2A_34.md) - Webpack: gerando bundle de produção
+
+* Configurando o `webpack.config.js`
+	* Arquivo final `webpack.config.js`
+
+* Configurando `webpack.prod.config.js`
+	* Refatorando arquivo para build de producão
+* Adicionando novos plugins
+	* webpack.DefinePlugin
+	* webpack.optimize.UglifyJsPlugin
+	* webpack.optimize.DedupePlugin
+	* webpack.optimize.OccurrenceOrderPlugin
+* Configurando comando de build no package.json
+* Arquivo final para gerar em producão

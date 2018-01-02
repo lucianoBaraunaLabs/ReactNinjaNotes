@@ -480,3 +480,5 @@ _____
 * Utilizando as classes
 * Saída html
 * Saída CSS
+
+### [M2#A38](M2A_38.md) - Trabalhando com assets: Critical Rendering Path

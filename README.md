@@ -474,3 +474,9 @@ _____
 * Criando diretório
 * Importado o css
 * Importando de diretórios raiz o arquivo index.js
+
+### [M2#A37](M2A_37.md) - Trabalhando com assets: CSS Modules
+* Configurando css loader para utilizar o modules em css
+* Utilizando as classes
+* Saída html
+* Saída CSS

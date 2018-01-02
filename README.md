@@ -469,3 +469,8 @@ _____
 * Instalando
 * Configurando `webpack.config.js`
 * Configurando `package.json`
+
+### [M2#A36](M2A_36.md) - Trabalhando com assets: Modularizando o CSS
+* Criando diretório
+* Importado o css
+* Importando de diretórios raiz o arquivo index.js

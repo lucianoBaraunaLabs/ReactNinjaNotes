@@ -522,3 +522,7 @@ _____
 * Importando automático
 * Importando automático sobrescrevendo a config inicial
 * Importando automático sobrescrevendo a config inicial
+
+### [M2#A46](M2A_46.md) - Storybook - localização do arquivo de config, linter e static build
+* Incluindo o linter em todo storybook
+* build-storybook

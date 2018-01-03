@@ -486,9 +486,10 @@ _____
 * Configurando elementos do above the fold
 
 ### [M2#A39](M2A_39.md) - Trabalhando com assets: Otimizando o Critical Rendering Path
-
 * Criamos dois objetos
 * Atualizando plugins
 * Criando regras para separar os css gerados
 * Configurando template.html
 	* Linkando os arquivos css e js no template
+
+### [M2#A40](M2A_40.md) - Trabalhando com assets: Ajustando ambiente de dev

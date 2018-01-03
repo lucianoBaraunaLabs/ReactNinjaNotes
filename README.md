@@ -516,3 +516,9 @@ _____
 ### [M2#A44](M2A_44.md) - Configurando o Storybook
 * Importando módulos
 * Escrevendo histórias
+
+### [M2#A45](M2A_45.md) - Storybook - extendendo o webpack.config padrão
+* Importando manualmente
+* Importando automático
+* Importando automático sobrescrevendo a config inicial
+* Importando automático sobrescrevendo a config inicial

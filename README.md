@@ -528,3 +528,7 @@ _____
 * build-storybook
 
 ### [M2#A47](M2A_47.md) - Storybook - criando histórias para os outros componentes
+* Usando css na aplicacão
+
+### [M2#A48](M2A_48.md) - Paginação - criando o componente
+ * **(nada anotado)**

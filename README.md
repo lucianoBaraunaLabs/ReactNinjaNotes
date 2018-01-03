@@ -493,3 +493,6 @@ _____
 	* Linkando os arquivos css e js no template
 
 ### [M2#A40](M2A_40.md) - Trabalhando com assets: Ajustando ambiente de dev
+### [M2#A41](M2A_41.md) - cross-env
+* Instalando cross-env
+* Atualizando o `npm run build` em `package.json`

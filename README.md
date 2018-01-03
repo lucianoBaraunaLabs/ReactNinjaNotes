@@ -512,3 +512,7 @@ _____
 * Funcão `loadStories`
 * Funcão `configure`
 * Arquivo config.js
+
+### [M2#A44](M2A_44.md) - Configurando o Storybook
+* Importando módulos
+* Escrevendo histórias

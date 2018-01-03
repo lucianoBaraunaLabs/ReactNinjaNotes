@@ -482,3 +482,13 @@ _____
 * Saída CSS
 
 ### [M2#A38](M2A_38.md) - Trabalhando com assets: Critical Rendering Path
+* Above the fold
+* Configurando elementos do above the fold
+
+### [M2#A39](M2A_39.md) - Trabalhando com assets: Otimizando o Critical Rendering Path
+
+* Criamos dois objetos
+* Atualizando plugins
+* Criando regras para separar os css gerados
+* Configurando template.html
+	* Linkando os arquivos css e js no template

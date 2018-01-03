@@ -493,6 +493,12 @@ _____
 	* Linkando os arquivos css e js no template
 
 ### [M2#A40](M2A_40.md) - Trabalhando com assets: Ajustando ambiente de dev
+
 ### [M2#A41](M2A_41.md) - cross-env
+* Sobre cross-env
 * Instalando cross-env
 * Atualizando o `npm run build` em `package.json`
+
+### [M2#A42](M2A_42.md) - criando alias no webpack
+* Sobre o problema de caminhos
+* Implementando Alias

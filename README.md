@@ -502,3 +502,13 @@ _____
 ### [M2#A42](M2A_42.md) - criando alias no webpack
 * Sobre o problema de caminhos
 * Implementando Alias
+
+### [M2#A43](M2A_43.md) - Configurando o Storybook
+* Inciando
+* Definindo padrão
+* Criando um arquivo `story`
+* Adicionando uma história
+* Configurando o story `config.js`
+* Funcão `loadStories`
+* Funcão `configure`
+* Arquivo config.js

@@ -536,3 +536,9 @@ _____
 ### [M2#A49](M2A_49.md) - Conhecendo o Yarn
 * Instalacão do yarn
 * Comandos do yarn
+
+### [M2#A50](M2A_50.md) - Paginacão ambiente de testes
+* Criando diretório `utils`
+* Criando diretório pagination e arquivos
+
+### [M2#A51](M2A_51.md) - Paginação - ambiente para testes - linter

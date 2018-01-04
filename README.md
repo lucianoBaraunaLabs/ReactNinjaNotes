@@ -532,3 +532,7 @@ _____
 
 ### [M2#A48](M2A_48.md) - Paginação - criando o componente
  * **(nada anotado)**
+
+### [M2#A49](M2A_49.md) - Conhecendo o Yarn
+* Instalacão do yarn
+* Comandos do yarn

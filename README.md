@@ -542,3 +542,15 @@ _____
 * Criando diretório pagination e arquivos
 
 ### [M2#A51](M2A_51.md) - Paginação - ambiente para testes - linter
+* Configurando o linter
+* Instalando o linter
+* Instalando snazzy
+* Ignorando arquivos no standard
+* Colocando o lint:fix
+* Colocando o watch no standard
+* Instalando o gulp
+* Criando a chamada no package.json
+* Criando o gulpfile.js
+* Configurando o gulpfile.js
+
+### [M2#A52](M2A_52.md) - Paginação - implementação inicial

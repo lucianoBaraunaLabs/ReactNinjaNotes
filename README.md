@@ -554,3 +554,11 @@ _____
 * Configurando o gulpfile.js
 
 ### [M2#A52](M2A_52.md) - Paginação - implementação inicial
+* Desabilitando error no standard em funcões globais
+* Escrevendo testes
+* Criando e explicado a funcão para passar nos testes
+	* Testando se é uma função (teste 1)
+	* Testando o total de páginas (teste 2 e 3)
+* Criando e explicado a funcão para passar nos testes
+	* Passa no teste 1
+	* Passando no teste 1 e teste 2

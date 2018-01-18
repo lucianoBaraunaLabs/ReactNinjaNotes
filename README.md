@@ -562,3 +562,5 @@ _____
 * Criando e explicado a funcão para passar nos testes
 	* Passa no teste 1
 	* Passando no teste 1 e teste 2
+
+### [M2#A53](M2A_53.md) - Paginação - implementação - parte 2

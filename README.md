@@ -564,3 +564,9 @@ _____
 	* Passando no teste 1 e teste 2
 
 ### [M2#A53](M2A_53.md) - Paginação - implementação - parte 2
+* Descrevendo lógica e mostrando comportamento
+* Criando testes
+	*	Testando se a quantidade for menor ou igual 5 ele vai mostrar todas as páginas (teste 1)
+	* Testando o comportamente para colocar os `...`(teste 2)
+* Passando nos testes
+	* Passando no teste 1 e teste 2. Obs: o teste 2 está com uma implementacão burra até aqui.

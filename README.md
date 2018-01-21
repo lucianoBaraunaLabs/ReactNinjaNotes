@@ -570,3 +570,13 @@ _____
 	* Testando o comportamente para colocar os `...`(teste 2)
 * Passando nos testes
 	* Passando no teste 1 e teste 2. Obs: o teste 2 está com uma implementacão burra até aqui.
+
+### [M2#A54](M2A_54.md) - Paginação - implementação - parte 2
+* Testes
+	*  Teste 1 - para checar se coloca o ...
+	*  Teste 2 - teste para checar todos os números com página centralizada.
+*  Criando variável para dizer quanto itens devem ser mostrados
+*  Criando retorno do array resolvendo
+*  Função para centralizar página ativa
+*  Removendo intens duplicados
+*  Código final

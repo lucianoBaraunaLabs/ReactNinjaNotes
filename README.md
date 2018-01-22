@@ -571,7 +571,7 @@ _____
 * Passando nos testes
 	* Passando no teste 1 e teste 2. Obs: o teste 2 está com uma implementacão burra até aqui.
 
-### [M2#A54](M2A_54.md) - Paginação - implementação - parte 2
+### [M2#A54](M2A_54.md) - Paginação - implementação - parte 3
 * Testes
 	*  Teste 1 - para checar se coloca o ...
 	*  Teste 2 - teste para checar todos os números com página centralizada.
@@ -580,3 +580,13 @@ _____
 *  Função para centralizar página ativa
 *  Removendo intens duplicados
 *  Código final
+
+### [M2#A55](M2A_55.md) - Paginação - implementação - parte 4
+
+* Testes
+	*  Teste 1 - para checar todos os números com página centralizada
+	*  Teste 2 - para checar os ...
+*  Resolvendo testes
+	*  Regra para mostrar a penúltima e última página (resolve teste 1)
+	*  Regra para colocar os ... no final (resolve teste 2)
+*  Código final (utils/pagination/index.js)

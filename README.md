@@ -582,7 +582,6 @@ _____
 *  Código final
 
 ### [M2#A55](M2A_55.md) - Paginação - implementação - parte 4
-
 * Testes
 	*  Teste 1 - para checar todos os números com página centralizada
 	*  Teste 2 - para checar os ...
@@ -590,3 +589,6 @@ _____
 	*  Regra para mostrar a penúltima e última página (resolve teste 1)
 	*  Regra para colocar os ... no final (resolve teste 2)
 *  Código final (utils/pagination/index.js)
+
+### [M2#A56](M2A_56.md) - Paginação - implementação - parte 5
+

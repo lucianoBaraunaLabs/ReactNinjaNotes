@@ -592,3 +592,13 @@ _____
 
 ### [M2#A56](M2A_56.md) - Paginação - implementação - parte 5
 
+* Testes
+	* Teste 1 - Testando para colocar na ordem as primeias páginas
+	* Teste 2 - Testando para os ... pontos no começo
+	* Teste 3 - Colocando a última página como ativa
+	* Testando todas as possibilidades
+	* Testando possibilidade com todos os ...
+* Resolvendo testes
+	* Ordenando array nas primeiras páginas (teste 1)
+	* Colocando os ... no comeco (teste 2)
+	* Colocando a última página como ativa (teste 3)

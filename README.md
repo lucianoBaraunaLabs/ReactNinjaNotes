@@ -591,7 +591,6 @@ _____
 *  Código final (utils/pagination/index.js)
 
 ### [M2#A56](M2A_56.md) - Paginação - implementação - parte 5
-
 * Testes
 	* Teste 1 - Testando para colocar na ordem as primeias páginas
 	* Teste 2 - Testando para os ... pontos no começo
@@ -602,3 +601,16 @@ _____
 	* Ordenando array nas primeiras páginas (teste 1)
 	* Colocando os ... no comeco (teste 2)
 	* Colocando a última página como ativa (teste 3)
+* Código final
+
+### [M2#A57](M2A_57.md) - Paginação - testando as excessões
+* Testes
+	* Teste 1 - se não passar o active page assumimos que ele vai ser um
+	* Teste 2 - se não passar o total e nem o active page assumimos que ele vai ser um
+	* Teste 3 - passando total com valor errado
+	* Teste 4 - passando activePage com valor errado
+* Resolvendo testes
+	* Colocando valores padrões caso nenhum seja passado (resolve teste 1 e teste 2)
+	* Tratando valores passados errados (resolve teste 3 e 4)
+* Refatorando o código
+* Código final

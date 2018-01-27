@@ -614,3 +614,13 @@ _____
 	* Tratando valores passados errados (resolve teste 3 e 4)
 * Refatorando o código
 * Código final
+
+### [M2#A58](M2A_58.md) - Paginação - storybook
+* Criando estrutura
+	* Criamos uma diretório em `src/components/pagination`
+	* Criamos um arquivo `components/pagination/index.js`
+	* Criamos um arquivo do storybook
+* Montando o componente Pagination
+* Criando a primeira história
+* Resolvendo bug do import de utils no storybook
+	* Arquivo final `storybook/webpack.config.js`

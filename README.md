@@ -625,8 +625,16 @@ _____
 * Resolvendo bug do import de utils no storybook
 	* Arquivo final `storybook/webpack.config.js`
 
-### [M2#A9](M2A_59.md) - Paginação - storybook - parte 2
+### [M2#A59](M2A_59.md) - Paginação - storybook - parte 2
 * Criando o componente Page
 * Arquivo final Pagination.js
 * Descrevendo o componente Page
 	* Arquivo final page.js
+
+### [M2#A60](M2A_60.md) - Paginação - storybook - parte 3
+* Criando e passando a funcão de callBack para o componente Page
+* Passando o onClick no componente Pagination
+* Passando o onClick no componente Page
+* Quebrando em histórias o componente Pagination
+* Definindo propriedades padrões no componente Pagination
+* Definindo tipos propriedades padrões no componente Pagination

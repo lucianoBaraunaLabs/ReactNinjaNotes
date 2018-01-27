@@ -624,3 +624,9 @@ _____
 * Criando a primeira história
 * Resolvendo bug do import de utils no storybook
 	* Arquivo final `storybook/webpack.config.js`
+
+### [M2#A9](M2A_59.md) - Paginação - storybook - parte 2
+* Criando o componente Page
+* Arquivo final Pagination.js
+* Descrevendo o componente Page
+	* Arquivo final page.js

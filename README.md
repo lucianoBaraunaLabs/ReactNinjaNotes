@@ -646,6 +646,10 @@ _____
 * Criando o componente Dots dentro de Page.js
 * Ajustando o componente Page para a inclusão de Dots
 * Arquivo page.js
+* Colocando destaque na página ativa.
+* Arquivo pagination/index.js
+
+### [M2#A62](M2A_62.md) - Abstraindo configuração padrão do webpack
 
 
 

@@ -638,3 +638,5 @@ _____
 * Quebrando em histórias o componente Pagination
 * Definindo propriedades padrões no componente Pagination
 * Definindo tipos propriedades padrões no componente Pagination
+* Verificando se a propriedade onClick foi passada para chamarmos o método
+* Arquivo final `Page.js`

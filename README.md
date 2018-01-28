@@ -471,7 +471,7 @@ _____
 * Configurando `package.json`
 
 ### [M2#A36](M2A_36.md) - Trabalhando com assets: Modularizando o CSS
-* Criando diretório
+*    Criando diretório
 * Importado o css
 * Importando de diretórios raiz o arquivo index.js
 
@@ -642,6 +642,10 @@ _____
 * Arquivo final `Page.js`
 
 ### [M2#A61](M2A_61.md) - Paginação - storybook - parte 4
+* Resolvendo a questão do click no span
+* Criando o componente Dots dentro de Page.js
+* Ajustando o componente Page para a inclusão de Dots
+* Arquivo page.js
 
 
 

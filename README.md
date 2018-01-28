@@ -640,3 +640,8 @@ _____
 * Definindo tipos propriedades padrões no componente Pagination
 * Verificando se a propriedade onClick foi passada para chamarmos o método
 * Arquivo final `Page.js`
+
+### [M2#A61](M2A_61.md) - Paginação - storybook - parte 4
+
+
+

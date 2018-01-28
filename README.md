@@ -650,6 +650,8 @@ _____
 * Arquivo pagination/index.js
 
 ### [M2#A62](M2A_62.md) - Abstraindo configuração padrão do webpack
-
+* Passo 1
+* Passo 2
+* Arquivo webpack/common.js final
 
 

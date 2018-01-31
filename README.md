@@ -670,3 +670,5 @@ _____
 * Atribuindo o utils ao arquivo common
 * Arquivo final webpack.config do storybook
 
+### [M2#A65](M2A_65.md) - Adicionando paginação na aplicação
+

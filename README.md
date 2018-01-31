@@ -655,4 +655,13 @@ _____
 * Arquivo webpack/common.js final
 
 ### [M2#A63](M2A_63.md) - Abstraindo configuração padrão do webpack - parte 2
+* Configurando arquivo dev.config.js
+	* Utilizando Object.assing(arg1, ar2, arg3)
+	* Reutilizando `htmlPluginConfig`
+	* Arquivo dev.config.js atualizado
+* Configurando arquivo prod.config.js
+	* Removendo propriedade Object.assing
+	* Arquivo prod.config.js atualizado
+
+### [M2#A64](M2A_64.md) - Abstraindo configuração padrão do webpack - parte 4
 

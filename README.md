@@ -654,4 +654,5 @@ _____
 * Passo 2
 * Arquivo webpack/common.js final
 
+### [M2#A63](M2A_63.md) - Abstraindo configuração padrão do webpack - parte 2
 

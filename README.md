@@ -664,4 +664,9 @@ _____
 	* Arquivo prod.config.js atualizado
 
 ### [M2#A64](M2A_64.md) - Abstraindo configuração padrão do webpack - parte 4
+* Corrigindo erro
+* Configurando webpack.config do storybook
+* Aplicando configuracão do standard para o loaderJS
+* Atribuindo o utils ao arquivo common
+* Arquivo final webpack.config do storybook
 

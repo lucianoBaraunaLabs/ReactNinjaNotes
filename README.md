@@ -673,3 +673,7 @@ _____
 ### [M2#A65](M2A_65.md) - Adicionando paginação na aplicação
 * Colocando o componente pagination dentro de repos/index.js
 * Arquivo final repos/index.js
+
+### [M2#A66](M2A_66.md) - Colocando a paginação pra funcionar
+* Colocando limite na quantidade de repositórios mostrados
+* Arquivo final App.js

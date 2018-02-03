@@ -671,4 +671,5 @@ _____
 * Arquivo final webpack.config do storybook
 
 ### [M2#A65](M2A_65.md) - Adicionando paginação na aplicação
-
+* Colocando o componente pagination dentro de repos/index.js
+* Arquivo final repos/index.js

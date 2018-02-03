@@ -678,7 +678,7 @@ _____
 * Colocando limite na quantidade de repositórios mostrados
 * Arquivo final App.js
 
-### [M2#A66](M2A_67.md) - Trocando de página
+### [M2#A67](M2A_67.md) - Trocando de página
 * Passando a página clicada para componente `App`
 	* Componente `Repos`
 	* Componente AppContent
@@ -687,3 +687,5 @@ _____
 	* Implementando a funcão na propriedade `handlePagination`
 	* Passando de getRepos para `getGithubApiUrl`
 	* Ajustando `getGithubApiUrl()` para trocar a página
+
+### [M2#A8](M2A_68.md) - Trocando de página

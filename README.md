@@ -689,3 +689,11 @@ _____
 	* Ajustando `getGithubApiUrl()` para trocar a página
 
 ### [M2#A8](M2A_68.md) - Trocando de página
+* Adicionando estados iniciais em App.js
+	* Adicionando estados iniciais independetes para página e repositórios mostrados.
+	* Alterando `handleSearch` para receber novo estado dos objetos `repos` e `starred`
+	* Alterando estado na função `getRepos` para receber objetos
+* Atualizado código em `app-content/index` segundo os novos tipos objetos
+	* Mostrando repositórios `app-content/index`
+	* Alterando propTypes
+* Igualando estados iniciais do objeto `repos` em `App.js`

@@ -707,3 +707,10 @@ _____
 * Passando objeto com a página atual - `App/index.js`
 
 ### [M2#A71](M2A_71.md) - Acertando informações da paginação - total de páginas
+* Repos/index
+	* Colocando total de páginas dinâmico no componente `Pagination`
+* App/index.js
+	* Calculando o total de páginas em repos
+	* Pegando o total de páginas para `starred`
+	* Aplicando regex no link para apanhar o total de páginas.
+	* Atualizando o total de páginas.

@@ -688,7 +688,7 @@ _____
 	* Passando de getRepos para `getGithubApiUrl`
 	* Ajustando `getGithubApiUrl()` para trocar a página
 
-### [M2#A8](M2A_68.md) - Trocando de página
+### [M2#A68](M2A_68.md) - Trocando de página
 * Adicionando estados iniciais em App.js
 	* Adicionando estados iniciais independetes para página e repositórios mostrados.
 	* Alterando `handleSearch` para receber novo estado dos objetos `repos` e `starred`
@@ -697,3 +697,7 @@ _____
 	* Mostrando repositórios `app-content/index`
 	* Alterando propTypes
 * Igualando estados iniciais do objeto `repos` em `App.js`
+
+### [M2#A69](M2A_69.md) - Ajustando as proptypes do state para paginação
+* Atualizando as proptypes em App.js
+* Atualizando as proptypes em Repos

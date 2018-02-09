@@ -701,3 +701,8 @@ _____
 ### [M2#A69](M2A_69.md) - Ajustando as proptypes do state para paginação
 * Atualizando as proptypes em App.js
 * Atualizando as proptypes em Repos
+
+### [M2#A70](M2A_70.md) - Acertando informações da paginação - página ativa
+
+* Deixando página atual automática - `Repos/index.js`.
+* Passando objeto com a página atual - `App/index.js`

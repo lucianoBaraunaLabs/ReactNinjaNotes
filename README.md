@@ -703,6 +703,7 @@ _____
 * Atualizando as proptypes em Repos
 
 ### [M2#A70](M2A_70.md) - Acertando informações da paginação - página ativa
-
 * Deixando página atual automática - `Repos/index.js`.
 * Passando objeto com a página atual - `App/index.js`
+
+### [M2#A71](M2A_71.md) - Acertando informações da paginação - total de páginas

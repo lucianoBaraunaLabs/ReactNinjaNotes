@@ -714,3 +714,22 @@ _____
 	* Pegando o total de páginas para `starred`
 	* Aplicando regex no link para apanhar o total de páginas.
 	* Atualizando o total de páginas.
+
+### [M2#A72](M2A_72.md) - Webpack - atualizando nosso boilerplate para webpack v2
+
+* Atualizando webpack/common.js
+	* Destructuring para join
+	* Propriedade `enfocer`
+	* Removendo regex em caminhos
+	* Propriedade use ao invés de loader
+	* Arquivo webpack/common.js final
+* Arquivo webpack/dev.config.js
+	*  Remover `webpack-validator`
+	*  Alterando `preLoaders` e `loaders`
+	*  Arquivo webpack/dev.config final
+*  Arquivo webpack/prod.config.js
+	* Alterando `ExtractTextPlugin`
+	* Alterando `UglifyJsPlugin` e propriedades `false`
+	* Propriedades implementadas dentro do webpack
+	* Alterando ExtractTextPlugin
+	* Arquivo final webpack/prod.config.js

@@ -716,7 +716,6 @@ _____
 	* Atualizando o total de páginas.
 
 ### [M2#A72](M2A_72.md) - Webpack - atualizando nosso boilerplate para webpack v2
-
 * Atualizando webpack/common.js
 	* Destructuring para join
 	* Propriedade `enfocer`
@@ -733,3 +732,11 @@ _____
 	* Propriedades implementadas dentro do webpack
 	* Alterando ExtractTextPlugin
 	* Arquivo final webpack/prod.config.js
+
+### [M2#A73](M2A_73.md) - Atualização do Webpack - atualizando as dependências
+
+* Criando um script para atualizacão.
+	*  Pegando o arquivo package.json e separando as dependências
+	*  Usando o método `spawn`
+	*  Comandos para atualizar as dependências.
+	*  Colocando os processos para rodarem sincronos.

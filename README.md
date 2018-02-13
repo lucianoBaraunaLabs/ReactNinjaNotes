@@ -748,3 +748,7 @@ _____
 * Removemos o apply em `webpack/prod.config.js`
 * Atualizando o Storybook
 * Organizando o arquido storybook do webpack
+
+### [M2#A76](M2A_76.md) - Atualização do Webpack - o que o tree shaking e como configurar
+* Atualizando config babel para deixar o webpack converter os módulos.
+*

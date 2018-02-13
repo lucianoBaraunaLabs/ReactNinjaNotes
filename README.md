@@ -743,3 +743,8 @@ _____
 
 ### [M2#A74](M2A_74.md) - Atualização do Webpack - removendo dependências não utilizadas
 * Criamos o comando para atualizacão no package.json
+
+### [M2#A75](M2A_75.md) - Atualização do Webpack - atualizar storybook e remover erros
+* Removemos o apply em `webpack/prod.config.js`
+* Atualizando o Storybook
+* Organizando o arquido storybook do webpack

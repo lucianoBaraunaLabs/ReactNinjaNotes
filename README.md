@@ -739,4 +739,7 @@ _____
 	*  Pegando o arquivo package.json e separando as dependências
 	*  Usando o método `spawn`
 	*  Comandos para atualizar as dependências.
-	*  Colocando os processos para rodarem sincronos.
+	*  Colocando os processos
+
+### [M2#A74](M2A_74.md) - Atualização do Webpack - removendo dependências não utilizadas
+* Criamos o comando para atualizacão no package.json

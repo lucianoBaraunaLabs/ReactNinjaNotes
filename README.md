@@ -751,4 +751,10 @@ _____
 
 ### [M2#A76](M2A_76.md) - Atualização do Webpack - o que o tree shaking e como configurar
 * Atualizando config babel para deixar o webpack converter os módulos.
-*
+
+### [M2#A77](M2A_77.md) - ES6 - Promises
+* Pegando as reijeicões.
+* Exemplo
+	*  Sem promise
+	*  Com promise
+	*  Podemos ter vários `then`

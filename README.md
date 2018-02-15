@@ -764,3 +764,8 @@ _____
 * Arquivo webpack/prod.config.js
 	*  Instalando
 *  Sobre o plugin
+
+### [M2#A79](M2A_79.md) - ES7 - async / await
+* Sobre
+* Exemplo
+* Oberservacão sobre `Promise`

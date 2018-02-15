@@ -758,3 +758,9 @@ _____
 	*  Sem promise
 	*  Com promise
 	*  Podemos ter vários `then`
+
+### [M2#A78](M2A_78.md) - webpack clean plugin
+* Instalando
+* Arquivo webpack/prod.config.js
+	*  Instalando
+*  Sobre o plugin

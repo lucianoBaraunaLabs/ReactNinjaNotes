@@ -769,3 +769,12 @@ _____
 * Sobre
 * Exemplo
 * Oberservacão sobre `Promise`
+
+### [M2#A80](M2A_80.md) - Adicionando async / await no nosso workflow
+* Criando a promise
+* Atrasando a promise
+* Criando `asyn await`
+* Coloando o babel para interpretar `async`
+	* Primeiro: babel-plugin-transform-runtime
+	* Segundo: babel-runtime
+	* Adicionando plugins no .babelrc

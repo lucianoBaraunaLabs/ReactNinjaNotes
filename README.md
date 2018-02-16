@@ -782,3 +782,5 @@ _____
 ### [M2#A81](M2A_81.md) - Ajustando storybook
 * Criando um teste de async no storybook
 * Configurando webpack2 no storybook em `webpack/storybook.config.js`
+
+### [M2#A82](M2A_82.md) - Ajustando storybook

@@ -778,3 +778,5 @@ _____
 	* Primeiro: babel-plugin-transform-runtime
 	* Segundo: babel-runtime
 	* Adicionando plugins no .babelrc
+
+### [M2#A81](M2A_81.md) - Ajustando storybook

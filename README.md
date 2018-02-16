@@ -780,3 +780,5 @@ _____
 	* Adicionando plugins no .babelrc
 
 ### [M2#A81](M2A_81.md) - Ajustando storybook
+* Criando um teste de async no storybook
+* Configurando webpack2 no storybook em `webpack/storybook.config.js`

@@ -791,3 +791,9 @@ _____
 
 ### [M2#A84](M2A_84.md) - CommonsChunkPlugin
 * Configurando o plugin webpack/prod.config.js
+
+### [M2#A85](M2A_85.md) - CommonsChunkPlugin - opções do plugin
+* Funcão em minChunks para filtrar arquivos e realizar o chunk
+	* Criando funcão para filtar por nome
+	* Melhorando a funcão
+* Deixando automático o filtro de módulos

@@ -783,4 +783,8 @@ _____
 * Criando um teste de async no storybook
 * Configurando webpack2 no storybook em `webpack/storybook.config.js`
 
-### [M2#A82](M2A_82.md) - Ajustando storybook
+### [M2#A82](M2A_82.md) - Centralizar paths do webpack no common.js
+
+### [M2#A83](M2A_83.md) - Introdução à code splitting
+* Criando chunk file ou arquivos com blocos de códigos separados
+* Habilitando o cache para arquivos que já foram carregados

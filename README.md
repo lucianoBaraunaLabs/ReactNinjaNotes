@@ -788,3 +788,6 @@ _____
 ### [M2#A83](M2A_83.md) - Introdução à code splitting
 * Criando chunk file ou arquivos com blocos de códigos separados
 * Habilitando o cache para arquivos que já foram carregados
+
+### [M2#A84](M2A_84.md) - CommonsChunkPlugin
+* Configurando o plugin webpack/prod.config.js

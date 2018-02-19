@@ -797,3 +797,13 @@ _____
 	* Criando funcão para filtar por nome
 	* Melhorando a funcão
 * Deixando automático o filtro de módulos
+
+### [M2#A86](M2A_86.md) - Import dinâmico
+* Removendo o erro do chunkplugin para desenv.common.js
+* Sobre
+* Criando o import
+* default no import dinâmico
+* App.js
+	* Invocando o title
+	*  Código final
+*  Gerando o build

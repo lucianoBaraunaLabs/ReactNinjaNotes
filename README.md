@@ -807,3 +807,8 @@ _____
 	* Invocando o title
 	*  Código final
 *  Gerando o build
+
+### [M2#A87](M2A_87.md) - import() dinâmico - e o linter?
+* Adicionando um parser do estlint
+* Adicionamos a entrada no package.json
+* Alterando a entrada em common.js

@@ -812,3 +812,13 @@ _____
 * Adicionando um parser do estlint
 * Adicionamos a entrada no package.json
 * Alterando a entrada em common.js
+
+### [M2#A88](M2A_88.md) - webpack - file-loader: imagens e outros assets além de CSS
+* Instalando o webpack e fileloader
+* Estrutura de exemplo
+	* Criamos o arquivo `a`
+	* Criamos um arquivo index.js
+* Aplicando o file-loader
+	* Configurando o loader
+	* Sobre o file-loader
+	* Customizando a saída do file-loader

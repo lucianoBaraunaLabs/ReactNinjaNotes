@@ -830,3 +830,5 @@ _____
 ### [M2#A90](M2A_90.md) - webpack - raw-loader: pegando conteúdo de qualquer tipo de arquivo
 * Instalando
 * Configurando
+
+### [M2#A91](M2A_91.md) - webpack - adicionando o file-loader e url-loader no nosso boilerplate

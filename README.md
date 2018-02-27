@@ -832,3 +832,11 @@ _____
 * Configurando
 
 ### [M2#A91](M2A_91.md) - webpack - adicionando o file-loader e url-loader no nosso boilerplate
+* Instalando
+* Configurando
+	* common.js
+	* prod.config.js
+
+### [M2#A92](M2A_92.md) - this.setState() - usando funções fazer atualizações em lote
+* Solução
+	* Melhorando o código

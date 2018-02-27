@@ -840,3 +840,6 @@ _____
 ### [M2#A92](M2A_92.md) - this.setState() - usando funções fazer atualizações em lote
 * Solução
 	* Melhorando o código
+
+### [M2#A93](M2A_93.md) - Configuração do preloader do storybook
+* Nada anotado

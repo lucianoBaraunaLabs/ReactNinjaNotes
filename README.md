@@ -823,6 +823,10 @@ _____
 	* Sobre o file-loader
 	* Customizando a saída do file-loader
 
-### [M2#A88](M2A_89.md) - webpack - url-loader: imagens e outros assets além de CSS
+### [M2#A89](M2A_89.md) - webpack - url-loader: imagens e outros assets além de CSS
 * Utilizar o url-loader
 	* Configurando um limite para arquivos e utilizando o fallback file-loader
+
+### [M2#A90](M2A_90.md) - webpack - raw-loader: pegando conteúdo de qualquer tipo de arquivo
+* Instalando
+* Configurando

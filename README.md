@@ -843,3 +843,5 @@ _____
 
 ### [M2#A93](M2A_93.md) - Configuração do preloader do storybook
 * Nada anotado
+
+### [M2#A94](M2A_94.md) - Aplicação: editor de Markdown

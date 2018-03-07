@@ -845,3 +845,9 @@ _____
 * Nada anotado
 
 ### [M2#A94](M2A_94.md) - Aplicação: editor de Markdown
+* Tipo de componentes
+* Pegando acesso ao this do constructor
+	* Bind
+	* Usando arrow function
+	* Usando arrow function na criacão do método no constructor
+* Criando um componente uncontroled

@@ -851,3 +851,5 @@ _____
 	* Usando arrow function
 	* Usando arrow function na criacão do método no constructor
 * Criando um componente uncontroled
+
+### [M2#A95](M2A_95.md) - Aplicação: editor de Markdown - melhorando a estrutura inicial

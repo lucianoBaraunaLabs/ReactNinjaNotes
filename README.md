@@ -853,3 +853,5 @@ _____
 * Criando um componente uncontroled
 
 ### [M2#A95](M2A_95.md) - Aplicação: editor de Markdown - melhorando a estrutura inicial
+* Criando um controled component
+* Criando o componente MarkdownEditor

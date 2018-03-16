@@ -855,3 +855,5 @@ _____
 ### [M2#A95](M2A_95.md) - Aplicação: editor de Markdown - melhorando a estrutura inicial
 * Criando um controled component
 * Criando o componente MarkdownEditor
+
+### [M2#A96](M2A_96.md) - Aplicação: editor de Markdown - renderizando HTML

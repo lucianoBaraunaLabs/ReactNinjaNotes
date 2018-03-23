@@ -863,3 +863,5 @@ _____
 
 ### [M2#A97](M2A_97.md) - webpack - ajustando loader de CSS para depências externas
 * Alterando o common.js
+
+### [M2#A98](M2A_98.md) - Aplicação: editor de Markdown - adicionando opção de markdown no editor

@@ -865,3 +865,7 @@ _____
 * Alterando o common.js
 
 ### [M2#A98](M2A_98.md) - Aplicação: editor de Markdown - adicionando opção de markdown no editor
+* Instalação
+* Configurando markdown no App.js
+
+### [M2#A99](M2A_99.md) - Aplicação: editor de Markdown - colorindo blocos de código

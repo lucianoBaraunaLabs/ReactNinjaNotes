@@ -860,3 +860,6 @@ _____
 * Adicionando autofocus
 * Renderizando html no React
 * Refatorando o código
+
+### [M2#A97](M2A_97.md) - webpack - ajustando loader de CSS para depências externas
+* Alterando o common.js

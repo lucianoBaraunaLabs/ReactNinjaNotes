@@ -857,3 +857,6 @@ _____
 * Criando o componente MarkdownEditor
 
 ### [M2#A96](M2A_96.md) - Aplicação: editor de Markdown - renderizando HTML
+* Adicionando autofocus
+* Renderizando html no React
+* Refatorando o código

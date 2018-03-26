@@ -876,3 +876,7 @@ _____
 
 ### [M2#A100](M2A_100.md) - Aplicação: editor de Markdown - como fica em produção?
 * Nada anotado - apenas conceito na video aula
+
+### [M2#A101](M2A_101.md) - Aplicação: editor de Markdown - analisando bundle de produção
+* Instalando 
+* Configurando prod.config.js

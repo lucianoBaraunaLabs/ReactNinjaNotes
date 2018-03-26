@@ -869,3 +869,10 @@ _____
 * Configurando markdown no App.js
 
 ### [M2#A99](M2A_99.md) - Aplicação: editor de Markdown - colorindo blocos de código
+* Instalando
+* Configurando o highlight no App.js
+	* Configuramos o paths dentro common.js para mapear o estilo do higtlight no cssloader
+	* Importamos o css highlight
+
+### [M2#A100](M2A_100.md) - Aplicação: editor de Markdown - como fica em produção?
+* Nada anotado - apenas conceito na video aula

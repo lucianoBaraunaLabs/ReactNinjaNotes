@@ -886,3 +886,5 @@ _____
 	* Modificando common.js
 	* Modificando dev.config.js
 	* Adicionando chunk em prod.config.js
+
+### [M2#A103](M2A_103.md) - Aplicação: editor de Markdown - ordenando os scripts no HTML

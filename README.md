@@ -880,3 +880,9 @@ _____
 ### [M2#A101](M2A_101.md) - Aplicação: editor de Markdown - analisando bundle de produção
 * Instalando 
 * Configurando prod.config.js
+
+### [M2#A102](M2A_102.md) - Aplicação: editor de Markdown - melhorar bundle de produção
+* Criando chunk para vendor
+	* Modificando common.js
+	* Modificando dev.config.js
+	* Adicionando chunk em prod.config.js

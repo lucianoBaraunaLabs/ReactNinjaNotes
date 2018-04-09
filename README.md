@@ -887,8 +887,12 @@ _____
 	* Modificando dev.config.js
 	* Adicionando chunk em prod.config.js
 
-### [M2#A103](M2A_103.md) - Aplicação: editor de Markdown - ordenando os scripts no HTML
+### [M2#A103](M2A_103.md) - Aplicação: editor de Markdown - ordenando os
 * Criando a ordenação
 * Minificando o código
 * Gerando o build sem precisar do analyzer
 * Gerando o build com analyzer
+
+### [M2#A104](M2A_104.md) - Aplicação: editor de Markdown - ordenando os scripts no HTML
+* Criando o import dinâmico
+* Colocando para verificar o tipo de código.

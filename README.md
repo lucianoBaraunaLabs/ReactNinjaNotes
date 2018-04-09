@@ -888,3 +888,7 @@ _____
 	* Adicionando chunk em prod.config.js
 
 ### [M2#A103](M2A_103.md) - Aplicação: editor de Markdown - ordenando os scripts no HTML
+* Criando a ordenação
+* Minificando o código
+* Gerando o build sem precisar do analyzer
+* Gerando o build com analyzer

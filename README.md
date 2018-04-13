@@ -898,4 +898,3 @@ _____
 * Colocando para verificar o tipo de código.
 
 ### [M2#A105](M2A_105.md) - Aplicação: editor de Markdown - reduzindo o bundle de produção
-teste

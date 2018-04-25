@@ -898,3 +898,10 @@ _____
 * Colocando para verificar o tipo de código.
 
 ### [M2#A105](M2A_105.md) - Aplicação: editor de Markdown - reduzindo o bundle de produção
+* Instalando o Preact
+* Alterando para utilizar Preact
+
+### [M2#A106](M2A_106.md) - Aplicação: editor de Markdown - servindo arquivos comprimidos com gzip
+
+* Intalando
+* Configurando o servidor

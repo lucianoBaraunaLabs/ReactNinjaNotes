@@ -908,3 +908,5 @@ _____
 ### [M2#A107](M2A_107.md) - react dev tools - conhecendo a ferramenta
 * Alterando os scripts a produção em package.json
 * Otimizando o build de produção nos scripts
+
+### [M2#A108](M2A_108.md) - Aplicação: editor de Markdown - persistência de dados

@@ -902,6 +902,9 @@ _____
 * Alterando para utilizar Preact
 
 ### [M2#A106](M2A_106.md) - Aplicação: editor de Markdown - servindo arquivos comprimidos com gzip
-
 * Intalando
 * Configurando o servidor
+
+### [M2#A107](M2A_107.md) - react dev tools - conhecendo a ferramenta
+* Alterando os scripts a produção em package.json
+* Otimizando o build de produção nos scripts

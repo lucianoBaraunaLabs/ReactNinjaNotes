@@ -910,3 +910,5 @@ _____
 * Otimizando o build de produção nos scripts
 
 ### [M2#A108](M2A_108.md) - Aplicação: editor de Markdown - persistência de dados
+* Criando botão para salvar
+* Carregando os dados quando atualizamos a página

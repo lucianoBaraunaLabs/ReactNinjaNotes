@@ -919,3 +919,7 @@ _____
 * Separando o header
 * Componente MarkdownEditorHeader
 * Colocando em MarkdownEditor
+
+### [M2#A110](M2A_110.md) - Aplicação: editor de Markdown - salvando automaticamente
+
+* Salvando confome digita

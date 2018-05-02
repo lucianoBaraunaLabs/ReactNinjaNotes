@@ -878,7 +878,7 @@ _____
 * Nada anotado - apenas conceito na video aula
 
 ### [M2#A101](M2A_101.md) - Aplicação: editor de Markdown - analisando bundle de produção
-* Instalando 
+* Instalando
 * Configurando prod.config.js
 
 ### [M2#A102](M2A_102.md) - Aplicação: editor de Markdown - melhorar bundle de produção
@@ -912,3 +912,10 @@ _____
 ### [M2#A108](M2A_108.md) - Aplicação: editor de Markdown - persistência de dados
 * Criando botão para salvar
 * Carregando os dados quando atualizamos a página
+
+### [M2#A109](M2A_109.md) - Aplicação: editor de Markdown - removendo ações do comp. stateless
+* Colocando as ações em app
+* Carregando os dados quando atualizamos a página
+* Separando o header
+* Componente MarkdownEditorHeader
+* Colocando em MarkdownEditor

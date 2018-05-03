@@ -921,5 +921,9 @@ _____
 * Colocando em MarkdownEditor
 
 ### [M2#A110](M2A_110.md) - Aplicação: editor de Markdown - salvando automaticamente
-
 * Salvando confome digita
+
+### [M2#A111](M2A_111.md) - Aplicação: editor de Markdown - feedback de salvamento automático
+* Removendo o botão e colocando mensagem
+* Colocando o state isSaving no App.js e passando para baixo até o component markdown-editor-header
+* Salvando e trocando mensagem conforme feedback

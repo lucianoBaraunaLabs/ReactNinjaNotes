@@ -927,3 +927,5 @@ _____
 * Removendo o botão e colocando mensagem
 * Colocando o state isSaving no App.js e passando para baixo até o component markdown-editor-header
 * Salvando e trocando mensagem conforme feedback
+
+### [M2#A112](M2A_112.md) - Aplicação: editor de Markdown - removendo do localStorage

@@ -935,10 +935,15 @@ _____
 * Fazendo com que o textarea não fique atualizando direto e salvando no localStorage
 * Corrigindo o valor de value null
 
-### [M2#A113](M2A_113.md) -  Aplicação: editor de Markdown - criar arquivos MD
+### [M2#A113](M2A_113.md) - Aplicação: editor de Markdown - criar arquivos MD
 * Criamos a função `handleCreate` e passamos para os componentes
 * Refactoring
   * Remontando props
   * Organizando diretório
 * Colocando o focus no textarea quando criarmos um novo arquivo.
   * Criando a variável para pegar o nó do elemento
+
+### [M2#A114](M2A_114.md) - Aplicação: editor de Markdown - oportunidades de melhorias
+* Mostrando a palavra salvo somente quando estiver salvo.
+* Componentizando o botão.
+

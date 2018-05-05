@@ -929,3 +929,8 @@ _____
 * Salvando e trocando mensagem conforme feedback
 
 ### [M2#A112](M2A_112.md) - Aplicação: editor de Markdown - removendo do localStorage
+* Criando a função para remover
+* Passando props em  MarkdownEditor e explicando sobre validação das proptypes
+* Criando a função para remover
+* Fazendo com que o textarea não fique atualizando direto e salvando no localStorage
+* Corrigindo o valor de value null

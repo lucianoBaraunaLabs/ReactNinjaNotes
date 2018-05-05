@@ -934,3 +934,11 @@ _____
 * Criando a função para remover
 * Fazendo com que o textarea não fique atualizando direto e salvando no localStorage
 * Corrigindo o valor de value null
+
+### [M2#A113](M2A_113.md) -  Aplicação: editor de Markdown - criar arquivos MD
+* Criamos a função `handleCreate` e passamos para os componentes
+* Refactoring
+  * Remontando props
+  * Organizando diretório
+* Colocando o focus no textarea quando criarmos um novo arquivo.
+  * Criando a variável para pegar o nó do elemento

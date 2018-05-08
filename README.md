@@ -949,3 +949,9 @@ _____
 
 ### [M2#A115](M2A_115.md) - Aplicação: editor de Markdown - storybook do botão
 * Usando decorator
+
+### [M2#A116](M2A_116.md) - Aplicação: editor de Markdown - mais oportunidades de refactory
+* Criando componente SaveMessage
+* Atualizando o componente `Header`
+* Criando stroybook do SaveMessage
+* Criando diretório views

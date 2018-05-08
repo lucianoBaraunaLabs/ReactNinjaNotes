@@ -947,3 +947,5 @@ _____
 * Mostrando a palavra salvo somente quando estiver salvo.
 * Componentizando o botão.
 
+### [M2#A115](M2A_115.md) - Aplicação: editor de Markdown - storybook do botão
+* Usando decorator

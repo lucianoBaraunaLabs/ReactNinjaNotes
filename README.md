@@ -955,3 +955,5 @@ _____
 * Atualizando o componente `Header`
 * Criando stroybook do SaveMessage
 * Criando diretório views
+
+### [M2#A117](M2A_117.md) - Aplicação: editor de Markdown - atualização do React 15 - 15.5 - 16

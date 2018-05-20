@@ -960,5 +960,7 @@ _____
 * Atualizamos o react
 
 ### [M2#A118](M2A_118.md) - Aplicação: editor de Markdown - conhecendo a lib strclass
+* Corrigindo erro
+* Utilizando lib
 
-
+### [M2#A119](M2A_119.md) - Aplicação: editor de Markdown - adicionar novo MD no localStorage

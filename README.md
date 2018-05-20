@@ -990,3 +990,8 @@ _____
   * Criando handleOpenFile
   * Populando files
 
+### [M2#A122](M2A_122.md) - Aplicação: editor de Markdown - remover arquivos dinamicamente
+* Temos duas maneiras:
+  * 1º Usando reduce
+  * 2º Usando Spread operator
+

@@ -964,3 +964,22 @@ _____
 * Utilizando lib
 
 ### [M2#A119](M2A_119.md) - Aplicação: editor de Markdown - adicionar novo MD no localStorage
+* Instalando lib uuid
+* Iniciando nossa aplicação com ID único
+* Salvando o novo arquivo passando a hash como id
+* Removendo o arquivo criado
+* Pegando sempre a entrada dinâmica
+* Criando o novo id
+* Removendo e criando um novo dinâmico
+* Reafatorando a estado inicial
+  * Função clearState
+  * Função createNew
+
+### [M2#A120](M2A_120.md) - Aplicação: editor de Markdown - adicionar novo MD no localStorage
+* Criando o componente Files
+* Componente Files
+  * Criando
+  * Função handleOpenFile
+* Marcação do componente
+
+

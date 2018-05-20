@@ -982,4 +982,11 @@ _____
   * Função handleOpenFile
 * Marcação do componente
 
+### [M2#A121](M2A_121.md) - Aplicação: editor de Markdown - popular a lista de arquivos MD
+* Criando props
+* Passando props para MarkdownEditor
+* App.js
+  * Deixando files no estado geral
+  * Criando handleOpenFile
+  * Populando files
 

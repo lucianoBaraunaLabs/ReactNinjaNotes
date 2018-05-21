@@ -996,3 +996,9 @@ _____
   * 2º Usando Spread operator
 
 ### [M2#A123](M2A_123.md) - Aplicação: editor de Markdown - editar e adicionar arquivos no state
+
+### [M2#A124](M2A_124.md) - Aplicação: editor de Markdown - adicionar título para arquivos
+
+* App.js
+  * Criando e salvando uma nova estrutura de dados
+  * Abrindo o arquivo salvo

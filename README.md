@@ -1008,3 +1008,5 @@ _____
 * Criando o componente title
 * Passando o valor em MarkdownEditor
 * Colocando nome do arquivo no botão
+
+### [M2#A127](M2A_127.md) - Aplicação: editor de Markdown - opção para editar título

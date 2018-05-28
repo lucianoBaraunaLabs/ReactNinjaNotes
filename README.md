@@ -1003,3 +1003,8 @@ _____
   * Abrindo o arquivo salvo
 
 ### [M2#A125](M2A_125.md) - Aplicação: editor de Markdown - remover entradas que não são arquivos
+
+### [M2#A126](M2A_126.md) - Aplicação: editor de Markdown - remover entradas que não são arquivos
+* Criando o componente title
+* Passando o valor em MarkdownEditor
+* Colocando nome do arquivo no botão
